@@ -16,8 +16,8 @@
 	    "branch":      "sokp-l5.1"
   },
   {
-    "repository":     "CyanogenMod/android_packages_apps_FMRadio",
+    "repository":     "packages_apps_FMRadio",
     "target_path": "packages/apps/FMRadio",
-    	    "branch":           "cm-12.1"
+    	    "branch":           "sokp-l5.1"
   }
 ]
